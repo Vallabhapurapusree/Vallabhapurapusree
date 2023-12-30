@@ -1,0 +1,3 @@
+-hola soy @vallabhapurapusree👋 
+- 👀 estoy interesado en il sector aerospacial
+- 🌱 actualmente estoy aprendiendo estructuras de datos y algoritmos...
